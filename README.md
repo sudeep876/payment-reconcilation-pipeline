@@ -1,2 +1,2 @@
 # payment-reconcilation-pipeline
-reconcilies transactions wit processor
+reconciles transactions with processor
